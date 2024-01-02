@@ -509,4 +509,5 @@ export const ecosystemCategories = [
 		image: "ecosystem/plumenetwork.png",
 		url: "https://www.plumenetwork.xyz/",
 	},
+			
 ];
