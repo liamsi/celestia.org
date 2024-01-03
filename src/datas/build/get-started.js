@@ -6,7 +6,7 @@ export const getStarted = {
 			id: 1,
 			title: "Build",
 			text: "Pick a rollup framework to begin building.",
-			// image: "developer-portal/tutorial.png",
+			// image: "build/tutorial.png",
 			type: "anchor",
 			link: {
 				text: "Choose",
@@ -16,17 +16,17 @@ export const getStarted = {
 			id: 2,
 			title: "Integrate",
 			text: "Plug Celestia into your existing chain..",
-			// image: "developer-portal/concepts.png",
+			// image: "build/concepts.png",
 			type: "anchor",
 			link: {
 				text: "Start",
 			},
 		},
-				{
+		{
 			id: 3,
 			title: "Deploy",
 			text: "Explore Rollup-as-a-Service to deploy quickly.",
-			// image: "developer-portal/integrate.png",
+			// image: "build/integrate.png",
 			type: "anchor",
 			link: {
 				text: "Explore",
